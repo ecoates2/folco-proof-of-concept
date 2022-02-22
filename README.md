@@ -12,7 +12,7 @@ A folder colorizing utility for Windows written in C++.
 * Provide proper build tools
 * Fix DPI scaling; the application currently scales exactly to the size of the preview window
 * Provide better support for darker colors
-  * Currently, the application relies on [ImageMagick's tint() function](https://legacy.imagemagick.org/Usage/color_mods/), which targets mostly midtone colors. However, the side effect of this is that using darker colors will yield results that are much lighter colored than expected.
+  * Currently, the application relies on [ImageMagick's tint() function](https://legacy.imagemagick.org/Usage/color_mods/#tinting), which targets mostly midtone colors. However, the side effect of this is that using darker colors will yield results that are much lighter colored than expected.
 * Implement more advanced coloring options, such as textures, patterns, overlays and gradients
 * Add overlay icons (things like checkmarks)
 * Clean up the codebase and optimize performance!

@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/ecoates2/folco/blob/main/logo.png?raw=true)
+
+
 # Folco
 A folder colorizing utility for Windows written in C++.
 
@@ -22,6 +26,7 @@ For now, the application can be run using the command line.
 
 1. Navigate to the `bin` directory of your installation in Windows CMD
 2. Run `folco "path_to_folder_1" "path_to_folder_2" ... "path_to_folder_n"`
+![alt text](https://github.com/ecoates2/folco/blob/main/screenshot.png?raw=true)
 3. Select the desired color and hit apply. 
 
 To reset any given folder's color back to default, right click on it and select `Properties -> Customize -> Change Icon... -> Reset to Defaults`. 

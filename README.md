@@ -1,5 +1,5 @@
 # Folco
-An folder colorizing utility for Windows written in C++.
+A folder colorizing utility for Windows written in C++.
 
 # Features
 * The very first open source folder colorizer!
